@@ -10,6 +10,9 @@ There are multiple color schemes to select from:
 <li>Triadic</li>
 </ul>
 <br>
+<img width="343" alt="Screen Shot 2022-09-08 at 12 30 29 PM" src="https://user-images.githubusercontent.com/90432547/189100535-d5550685-7302-4d6c-9d42-df0fd4b4e818.png">
+<br>
+
 For this project I chose to use a monochromatic scheme design. 
 <br>
 
