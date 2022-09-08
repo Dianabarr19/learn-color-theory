@@ -14,6 +14,5 @@ For this project I chose to use a monochromatic scheme design.
 <br>
 
 
-
-Uploading Screen Recording 2022-09-08 at 12.24.21 PM.mov…
+https://user-images.githubusercontent.com/90432547/189099992-eff505f4-dc5b-4bea-af48-539ce8427641.mov
 
